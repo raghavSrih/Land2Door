@@ -1,0 +1,300 @@
+[
+  {
+    "id": 1,
+    "meta": {
+      "type": "openfarms.Farm",
+      "detail_url": "http://f.datalets.ch/api/v2/farms/1/",
+      "person": "Nathalie et JeanDaniel Reymond",
+      "phone": "021 807 31 18",
+      "mobile": "+41 79 787 89 86",
+      "email": "",
+      "website": "http://www.gitereymond.ch",
+      "address": "Rue Saint Laurent 30, 1176 Saint Livres",
+      "longitude": "6.385941699999989",
+      "latitude": "46.5104202",
+      "is_producer": true
+    },
+    "title": "Ferme Reymond",
+    "about": "<p>Table\nd’hôtes\n, Fromage\nau lait\ncru , Charcuterie, Panier\nGourmand.</p>",
+    "image_thumb": {
+      "url": "/media/images/FermeReymond.original.width-160.jpg",
+      "width": 160,
+      "height": 64
+    },
+    "image_full": {
+      "url": "/media/images/FermeReymond.original.width-800.jpg",
+      "width": 402,
+      "height": 161
+    },
+    "produce": [
+      {
+        "name": "Viande de Porc d'Alpage",
+        "about": "Cochons d'alpage engraissés grâce au petit-lait. Cette viande de porc présente un profil très aromatique et tendre",
+        "thumb": {
+          "url": "/media/images/viande_porc.width-160.png",
+          "width": 160,
+          "height": 72
+        },
+        "detail_url": "http://f.datalets.ch/api/v2/produce/3/"
+      },
+      {
+        "name": "Raclette lait cru",
+        "about": "Nature ou poivre vert",
+        "thumb": {
+          "url": "/media/images/raclette.width-160.jpg",
+          "width": 160,
+          "height": 106
+        },
+        "detail_url": "http://f.datalets.ch/api/v2/produce/2/"
+      },
+      {
+        "name": "Viande sèchée",
+        "about": "Viande sèchée de Boeuf",
+        "thumb": {
+          "url": "/media/images/viande_sechee.width-160.png",
+          "width": 160,
+          "height": 80
+        },
+        "detail_url": "http://f.datalets.ch/api/v2/produce/1/"
+      }
+    ],
+    "labels": [
+      {
+        "title": "IP-SUISSE",
+        "about": "IP-SUISSE s’investit pour une agriculture suisse égologique et économique. Le but principal est une production d’aliments sains et de qualité qui peuvent être commercialisé à des prix équitables. Les exploitations IP-SUISSE doivent pouvoir vivre de leur travail et être récompensées pour leurs efforts en matière de protection de l’environnement et en faveur de la biodiversité.",
+        "imageurl": "https://ipsuisse.ch/Design/IPSuisseWebsite/img/SchweizNatuerlich.png"
+      }
+    ],
+    "region": {
+      "title": "Vaud",
+      "imageurl": ""
+    },
+    "distributors": [
+      {
+        "id": 1,
+        "meta": {
+          "type": "openfarms.Farm",
+          "detail_url": "http://f.datalets.ch/api/v2/farms/1/"
+        },
+        "title": "Ferme Reymond"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "meta": {
+      "type": "openfarms.Farm",
+      "detail_url": "http://f.datalets.ch/api/v2/farms/2/",
+      "person": "Fuchs Patrick et Aude",
+      "phone": "021 843 08 06",
+      "mobile": "",
+      "email": "patrick-aude@bluewin.ch",
+      "website": "",
+      "address": "Route de la vallée 3, 1325 Vaulion",
+      "longitude": "6.37331",
+      "latitude": "46.67453",
+      "is_producer": true
+    },
+    "title": "Alpage de la petite dent",
+    "about": "Fromage mi dur, tomme de vache, Cochon d'alpage",
+    "image_thumb": {
+      "url": "/media/images/alpage_la_petite_dent.width-160.jpg",
+      "width": 160,
+      "height": 89
+    },
+    "image_full": {
+      "url": "/media/images/alpage_la_petite_dent.width-800.jpg",
+      "width": 300,
+      "height": 168
+    },
+    "produce": [
+      {
+        "name": "Viande de Porc d'Alpage",
+        "about": "Cochons d'alpage engraissés grâce au petit-lait. Cette viande de porc présente un profil très aromatique et tendre",
+        "thumb": {
+          "url": "/media/images/viande_porc.width-160.png",
+          "width": 160,
+          "height": 72
+        },
+        "detail_url": "http://f.datalets.ch/api/v2/produce/3/"
+      }
+    ],
+    "labels": [],
+    "region": {
+      "title": "Vaud",
+      "imageurl": ""
+    },
+    "distributors": [
+      {
+        "id": 2,
+        "meta": {
+          "type": "openfarms.Farm",
+          "detail_url": "http://f.datalets.ch/api/v2/farms/2/"
+        },
+        "title": "Alpage de la petite dent"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "meta": {
+      "type": "openfarms.Farm",
+      "detail_url": "http://f.datalets.ch/api/v2/farms/3/",
+      "person": "Bovy Etienne",
+      "phone": "022 368 20 34",
+      "mobile": "079 578 71 85",
+      "email": "info@fermepremartin.ch",
+      "website": "http://www.fermepremartin.ch",
+      "address": "Ferme Pré Martin 6, 1261 Longirod",
+      "longitude": "6.25749",
+      "latitude": "46.49113",
+      "is_producer": true
+    },
+    "title": "La ferme de Pré Martin",
+    "about": "Agneau entier ou demi, merguez, viande hachée, gigots, côtelettes, ragoûts, fricassée, saucissons secs au poivre, à la prune ou à l'ail, terrines au poivre ou à l'ail, laine. Jus de pomme.",
+    "image_thumb": {
+      "url": "/media/images/ferme_de_Pre_Martin.width-160.jpg",
+      "width": 160,
+      "height": 158
+    },
+    "image_full": {
+      "url": "/media/images/ferme_de_Pre_Martin.width-800.jpg",
+      "width": 500,
+      "height": 496
+    },
+    "produce": [
+      {
+        "name": "Viande d'agneau",
+        "about": "Agneaux nourris au lait de la mère et à l'herbe",
+        "thumb": {
+          "url": "/media/images/viande_agneau.width-160.png",
+          "width": 160,
+          "height": 106
+        },
+        "detail_url": "http://f.datalets.ch/api/v2/produce/4/"
+      }
+    ],
+    "labels": [
+      {
+        "title": "IP-SUISSE",
+        "about": "IP-SUISSE s’investit pour une agriculture suisse égologique et économique. Le but principal est une production d’aliments sains et de qualité qui peuvent être commercialisé à des prix équitables. Les exploitations IP-SUISSE doivent pouvoir vivre de leur travail et être récompensées pour leurs efforts en matière de protection de l’environnement et en faveur de la biodiversité.",
+        "imageurl": "https://ipsuisse.ch/Design/IPSuisseWebsite/img/SchweizNatuerlich.png"
+      },
+      {
+        "title": "ProSpecieRara",
+        "about": "ProSpecieRara est une fondation suisse à but non lucratif. Elle a été fondée en 1982 pour préserver les races d'animaux de rente et les plantes de culture menacées d'extinction",
+        "imageurl": "https://www.prospecierara.ch/Skins/Desktop/Images/LogoCHfr.png"
+      }
+    ],
+    "region": {
+      "title": "Vaud",
+      "imageurl": ""
+    },
+    "distributors": [
+      {
+        "id": 3,
+        "meta": {
+          "type": "openfarms.Farm",
+          "detail_url": "http://f.datalets.ch/api/v2/farms/3/"
+        },
+        "title": "La ferme de Pré Martin"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "meta": {
+      "type": "openfarms.Farm",
+      "detail_url": "http://f.datalets.ch/api/v2/farms/4/",
+      "person": "",
+      "phone": "",
+      "mobile": "",
+      "email": "",
+      "website": "",
+      "address": "",
+      "longitude": "6.626052899999991",
+      "latitude": "46.5230727",
+      "is_producer": false
+    },
+    "title": "Les jardins du Flon",
+    "about": "Livraison de paniers de fruits et légumes de saison",
+    "image_thumb": {
+      "url": "/media/images/jardin_du_flon.width-160.png",
+      "width": 160,
+      "height": 97
+    },
+    "image_full": {
+      "url": "/media/images/jardin_du_flon.width-800.png",
+      "width": 629,
+      "height": 383
+    },
+    "produce": [],
+    "labels": [
+      {
+        "title": "IP-SUISSE",
+        "about": "IP-SUISSE s’investit pour une agriculture suisse égologique et économique. Le but principal est une production d’aliments sains et de qualité qui peuvent être commercialisé à des prix équitables. Les exploitations IP-SUISSE doivent pouvoir vivre de leur travail et être récompensées pour leurs efforts en matière de protection de l’environnement et en faveur de la biodiversité.",
+        "imageurl": "https://ipsuisse.ch/Design/IPSuisseWebsite/img/SchweizNatuerlich.png"
+      }
+    ],
+    "region": {
+      "title": "Vaud",
+      "imageurl": ""
+    },
+    "distributors": []
+  },
+  {
+    "id": 5,
+    "meta": {
+      "type": "openfarms.Farm",
+      "detail_url": "http://f.datalets.ch/api/v2/farms/5/",
+      "person": "Domaine de La Rapille, Serge Kursner",
+      "phone": "",
+      "mobile": "",
+      "email": "",
+      "website": "",
+      "address": "",
+      "longitude": "6.990319",
+      "latitude": "46.422055",
+      "is_producer": true
+    },
+    "title": "Domaine de la Rapille",
+    "about": "<p>Serge Kursner, spécialisé dans l'élevage caprin depuis plus de 20ans : fromages de Chèvre et Cabris.</p>",
+    "image_thumb": {
+      "url": "/media/images/funny_chevre.width-160.jpg",
+      "width": 160,
+      "height": 120
+    },
+    "image_full": {
+      "url": "/media/images/funny_chevre.width-800.jpg",
+      "width": 800,
+      "height": 600
+    },
+    "produce": [
+      {
+        "name": "Fromage de Chèvre",
+        "about": "Dans le respect d’un savoir et des traditions, Serge Kursner vous propose un panel de fromages de chèvres les plus savoureux les uns que les autres.",
+        "thumb": {
+          "url": "/media/images/fromage_profilwapps.width-160.jpg",
+          "width": 160,
+          "height": 160
+        },
+        "detail_url": "http://f.datalets.ch/api/v2/produce/6/"
+      }
+    ],
+    "labels": [],
+    "region": {
+      "title": "Vaud",
+      "imageurl": ""
+    },
+    "distributors": [
+      {
+        "id": 5,
+        "meta": {
+          "type": "openfarms.Farm",
+          "detail_url": "http://f.datalets.ch/api/v2/farms/5/"
+        },
+        "title": "Domaine de la Rapille"
+      }
+    ]
+  }
+]
